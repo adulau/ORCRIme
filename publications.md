@@ -58,6 +58,39 @@ link: https://www.base-search.net/
 
 link: https://dlc.dlib.indiana.edu/dlc/
 
+### CIA World Factbook
+
+Highly useful research database for academics in a variety of disciplines
+
+link: https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html
+
+### Paperity
+
++15K journals
+
+link: https://paperity.org/
+
+### dblp Computer Science Bibliography
+
+Online index of major computer science publications
+
+link: https://dblp.org/
+
+### EconBiz
+
+Resource for economic and business studies
+
+link: https://www.econbiz.de/
+
+### BioMed Central
+
+Open access research from more than 290 peer-reviewed journals in the fields of biology, clinical medicine, and health
+
+link: https://www.biomedcentral.com/
+
+
+
+
 
 More: https://www.scribendi.com/whitepapers/101_Free_Online_Journal_and_Research_Databases_for_Academics_Free_Resource.pdf 
 
