@@ -23,7 +23,8 @@ usecase: maps generation on many topics such as ressources, conflicts with discr
 
 ![image](/sources/image/hgl.png)
 
-### uMap
+## uMap
 
 https://umap.openstreetmap.fr/fr/
 
+![image](/sources/images/uMap.png)
