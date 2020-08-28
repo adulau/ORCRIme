@@ -24,3 +24,7 @@
 
 ### CORRUPTION
 - https://littlesis.org/ (who-knows-who)
+
+### INTELLIGENCE 
+
+- https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html (US)
