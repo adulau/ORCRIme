@@ -27,4 +27,6 @@ usecase: maps generation on many topics such as ressources, conflicts with discr
 
 https://umap.openstreetmap.fr/fr/
 
+usecase: draw quick a map with indicators
+
 ![image](https://github.com/C00kie-/OSINT/blob/master/sources/image/uMap.png)
