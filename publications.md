@@ -28,3 +28,12 @@ link : https://arxiv.org/
 A collection of papers from the social sciences community
 https://www.ssrn.com/index.cfm/en/
 
+### Public Library of Science
+
+Publishing seven open access journals
+link : https://plos.org/
+
+### OpenDOAR
+
+ Directory of Open Access Repositories, using Google Custom Search.
+https://www.opendoar.org/search.php
