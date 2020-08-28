@@ -88,6 +88,41 @@ Open access research from more than 290 peer-reviewed journals in the fields of 
 
 link: https://www.biomedcentral.com/
 
+### JURN
+
+A multidisciplinary search engine
+
+link: https://www.jurn.org/  (down)
+
+### Dryad
+
+Dryad is a digital repository of curated, open access scientific research
+
+link: https://datadryad.org/
+
+### EThOS
+
+400,000 doctoral theses in a variety of disciplines
+
+link: https://ethos.bl.uk/Home.do
+
+### PubMed
+
+From the National Center for Biotechnology Information, research platform in the fields of science and medicine
+
+link: https://pubmed.ncbi.nlm.nih.gov/
+
+### Semantic Scholar
+
+Use AI sort through millions of science-related papers based on your search terms
+
+link: https://www.semanticscholar.org/
+
+### Zenodo
+
+You can sort by keyword, title, journal, and more and download open access documents directly from the site
+
+link: https://zenodo.org/
 
 
 
