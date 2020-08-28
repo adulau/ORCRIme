@@ -47,3 +47,7 @@ link: https://www.base-search.net/
 
 (DLC) Repository is a multidisciplinary journal repository
 link: https://dlc.dlib.indiana.edu/dlc/
+
+
+More: https://www.scribendi.com/whitepapers/101_Free_Online_Journal_and_Research_Databases_for_Academics_Free_Resource.pdf 
+
