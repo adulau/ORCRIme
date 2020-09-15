@@ -1,3 +1,17 @@
+## Internet Archive Services
+
+### FATCAT
+
+Fatcat, versioned, user-editable catalog of research publications including journal articles, conference proceedings, and datasets
+
+link: https://fatcat.wiki/
+
+### INTERNET ARCHIVE SCHOLAR
+
+Fulltext search index, 25 million research articles and other documents preserved in the Internet Archive
+
+link: https://scholar-qa.archive.org/
+
 ### CORE
 
 Multidisciplinary aggregator of open access research
