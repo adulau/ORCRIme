@@ -1,5 +1,3 @@
-## Internet Archive Services
-
 ### FATCAT
 
 Fatcat, versioned, user-editable catalog of research publications including journal articles, conference proceedings, and datasets
