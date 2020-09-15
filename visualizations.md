@@ -1,3 +1,9 @@
+## VIS (OCCRP) Visual Investigative Scenarios
+
+https://vis.occrp.org/
+++ open library with cases examples
+
+
 ## Network Atlas Improves Visualization of Global Internet Infrastructure
 
 https://www.submarinenetworks.com/en/insights/network-atlas-improves-visualization-of-global-internet-infrastructure
