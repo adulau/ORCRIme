@@ -1,6 +1,11 @@
 
 # Databases
 
+### METHODE : explore data, work with data (from GIJN Global Investigative Journalism Network Helpdesk)
+
+- https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism
+
+**Unsorted:**
 - https://aleph.occrp.org/
 - https://offshoreleaks.icij.org/
 - https://www.ire.org/nicar/database-library/ (US)
