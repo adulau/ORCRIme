@@ -28,6 +28,12 @@
 - https://www.fbi.gov/wanted/cyber (US)
 - https://www.interpol.int/en/How-we-work/Notices/Red-Notices 
 
+### HUMAN trafficking
+
+- https://docs.google.com/spreadsheets/d/1a3yzhzzzJslzxtVGVZ7uNx7Q_GhpAVDIboQGDbwy0B4/edit#gid=1114015401 (GIJN Human Trafficking Database)
+- https://docs.google.com/spreadsheets/d/1SM8gsy8VYii9iyPHEehB2N7jnjUtmOjeyIgGAaZwu00/edit#gid=2129020903 (GIJN Human Trafficking, forced labor and slavery reports)
+
+
 ### CORRUPTION
 - https://littlesis.org/ (who-knows-who)
 
