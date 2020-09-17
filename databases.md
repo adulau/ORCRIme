@@ -1,9 +1,13 @@
 
 # Databases
+so far most of the content is unsorted. Most additions of references are quick notes from study cases. Feel free to suggest any organisation that make sense to you and your team. This repo definitly needs more time on it ;)
 
 ### METHODE : explore data, work with data (from GIJN Global Investigative Journalism Network Helpdesk)
 
 - https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism
+
+### Research Desk by OCCRP (Organized Crime and Corruption Reporting Project) - OCCRP ID
+- https://id.occrp.org/databases/
 
 **Unsorted:**
 - https://aleph.occrp.org/
@@ -44,5 +48,4 @@
 ### LAW 
 - https://scholarship.law.upenn.edu/topdownloads.html (US)
 
-### Research Desk by OCCRP (Organized Crime and Corruption Reporting Project) - OCCRP ID
-- https://id.occrp.org/databases/
+
