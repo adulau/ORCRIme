@@ -8,9 +8,9 @@ A curated(to come) list of online ressources, cross-disciplines.
 
 
 Search:
-[Database](./databases)
-[Publication](./publications)
-[Visualisation](./visualizations)
+- [Database](./databases)
+- [Publication](./publications)
+- [Visualisation](./visualizations)
 
 Github links:
 - [Databases](https://github.com/C00kie-/ORCRI/blob/master/databases.md)
