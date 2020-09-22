@@ -18,7 +18,7 @@ You can check open Issues in the repo for needed development, or [post an issue]
 
 # LICENSE 
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][./LICENSE].
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](./LICENSE)
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
