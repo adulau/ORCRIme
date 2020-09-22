@@ -3,7 +3,7 @@
 https://vis.occrp.org/
 ++ open library with cases examples
 
-![image](https://github.com/C00kie-/OSINT/blob/master/sources/image/vis.png)
+![image](/sources/image/vis.png)
 
 ## Network Atlas Improves Visualization of Global Internet Infrastructure
 
@@ -36,4 +36,4 @@ https://umap.openstreetmap.fr/fr/
 
 usecase: draw quick a map with indicators
 
-![image](https://github.com/C00kie-/OSINT/blob/master/sources/image/uMap.png)
+![image](/sources/image/uMap.png)
