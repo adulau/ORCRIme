@@ -146,7 +146,7 @@ More: https://www.scribendi.com/whitepapers/101_Free_Online_Journal_and_Research
 
 # Publishers:
 
-### [SAGE Criminology](https://journals.sagepub.com/action/showPublications?AllField=criminology&within=10.1177%2Fsocial-sciences-and-humanities)
+### [SAGE Journals #Criminology](https://journals.sagepub.com/action/showPublications?AllField=criminology&within=10.1177%2Fsocial-sciences-and-humanities)
 
 
 
