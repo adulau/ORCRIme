@@ -1,3 +1,5 @@
+# Aggregators and indexers
+
 ### FATCAT
 
 Fatcat, versioned, user-editable catalog of research publications including journal articles, conference proceedings, and datasets
@@ -140,4 +142,11 @@ link: https://zenodo.org/
 
 
 More: https://www.scribendi.com/whitepapers/101_Free_Online_Journal_and_Research_Databases_for_Academics_Free_Resource.pdf 
+
+
+# Publishers:
+
+### [SAGE Criminology](https://journals.sagepub.com/action/showPublications?AllField=criminology&within=10.1177%2Fsocial-sciences-and-humanities)
+
+
 
