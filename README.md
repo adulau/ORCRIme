@@ -12,6 +12,9 @@ Search:
 - [Publication](./publications)
 - [Visualisation](./visualizations)
 
+Tools:
+- [R-tools](./r-tools), R language and RStudio beginners tutorial
+
 Github links:
 - [Databases](https://github.com/C00kie-/ORCRI/blob/master/databases.md)
 - [Publications](https://github.com/C00kie-/ORCRI/blob/master/publications.md)
