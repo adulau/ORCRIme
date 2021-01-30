@@ -7,13 +7,15 @@ I hope this short list helps to clarify what is the **purpose** of each **publis
 
 
 Note: So far most of the content is unsorted. Most additions of references are quick notes from study cases. Feel free to suggest any organisation that make sense to you and your team. 
-
-|Name|link|last-view|label|
-|-|-|-|-|
-|GIJN METHODE : explore data, work with data (from GIJN Global Investigative Journalism Network Helpdesk)|https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism |01/30/2021|journalism|
-|ICIJ Offshore Leaks (International Consortium Investigative Journalists) |https://offshoreleaks.icij.org/  |01/30/2021|leak|
-|OCCRP Research Desk (Organized Crime and Corruption Reporting Project) - OCCRP ID| https://id.occrp.org/databases/ |01/30/2012||
-|OCCRP Aleph | https://aleph.occrp.org/ |01/30/2021 || 
+Each line tells if [MISP](https://github.com/MISP/MISP) has an import module related to it. 
+![misp logo]()
+ 
+|Name|link|last-view|label|MISP module|
+|-|-|-|-|-|
+|GIJN METHODE : explore data, work with data (from GIJN Global Investigative Journalism Network Helpdesk)|https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism |01/30/2021|journalism||
+|ICIJ Offshore Leaks (International Consortium Investigative Journalists) |https://offshoreleaks.icij.org/  |01/30/2021|leak||
+|OCCRP Research Desk (Organized Crime and Corruption Reporting Project) - OCCRP ID| https://id.occrp.org/databases/ |01/30/2012|||
+|OCCRP Aleph | https://aleph.occrp.org/ |01/30/2021 |||
 
 ### Open-data Portals
 - https://opendatainception.io/
