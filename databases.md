@@ -7,43 +7,44 @@ I hope this short list helps to clarify what is the **purpose** of each **publis
 
 Note: So far most of the content is unsorted. Most additions of references are quick notes from study cases. Feel free to suggest any organisation that make sense to you and your team. This repo definitly needs more time on it ;)
 
-### METHODE : explore data, work with data (from GIJN Global Investigative Journalism Network Helpdesk)
-- https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism
+|Name|link|label|
+|-|-|-|
 
-### Offshore Leaks by ICIJ (International Consortium Investigative Journalists)
-- https://offshoreleaks.icij.org/
 
-### Research Desk by OCCRP (Organized Crime and Corruption Reporting Project) - OCCRP ID
+|GIJN METHODE : explore data, work with data (from GIJN Global Investigative Journalism Network Helpdesk)|https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism |journalism|
+
+|ICIJ Offshore Leaks (International Consortium Investigative Journalists)|https://offshoreleaks.icij.org/| leak|
+
+### OCCRP Research Desk (Organized Crime and Corruption Reporting Project) - OCCRP ID
 - https://id.occrp.org/databases/
 
-### Aleph OCCRP
+### OCCRP Aleph
 - https://aleph.occrp.org/
 
 ### Open-data Portals
 - https://opendatainception.io/
 
-
-## Development
-
 ### International Aid Transparency Initiative (development and humanitarian activity) publishers list
 - https://www.iatiregistry.org/publisher
 
-### The World Bank data catalog
+### World Bank data catalog
 - https://datacatalog.worldbank.org/collections
 
 ### Unesco Digital Library
 - https://unesdoc.unesco.org
 
+### Investigative Reporters and Editors Resources
+- https://www.ire.org/resources/
 
+### European Data Portal, Justice, Legal System and Public safety datasets
+- https://www.europeandataportal.eu/data/datasets?locale=en&categories=JUST&minScoring=0&page=1&sort=relevance%2Bdesc
 
+### Export.gov, export information by industry (US)
+- https://legacy.export.gov/industries
 
-**Unsorted:**
-- https://www.ire.org/nicar/database-library/ (US) Investigative Reporters and Editors
-- https://www.europeandataportal.eu/data/datasets/amtsgerichte-in-deutschland?locale=en (GER)
+### International Trade Administration, Consolidated Screening List (US)
+- https://www.trade.gov/consolidated-screening-list
 
-## EXPORT
-- https://legacy.export.gov/csl-search (US)
-- https://www.trade.gov/consolidated-screening-list (US)
 
 ## DATABREACH
 - https://oag.ca.gov/privacy/databreach/list (US)
