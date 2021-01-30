@@ -17,42 +17,30 @@ Each line tells if [MISP](https://github.com/MISP/MISP) has an import module rel
 |Name|link|last-view|label|MISP module|
 |-|-|-|-|-|
 |European Data Portal, Justice, Legal System and Public safety datasets |https://www.europeandataportal.eu/data/datasets?locale=en&categories=JUST&minScoring=0&page=1&sort=relevance%2Bdesc |01/30/2021|justice, public safety||
+|FBI Cyber Most Wanted | https://www.fbi.gov/wanted/cyber | 01/30/2021 | law enforcement ||
+|FBI Records, The Vault | https://vault.fbi.gov | 01/30/2021 |law enforcement||
 |Export.gov, export information by industry (US) |https://legacy.export.gov/industries | 01/30/2021|export||
 |GIJN METHODE : explore data, work with data (from GIJN Global Investigative Journalism Network Helpdesk)|https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism |01/30/2021|journalism||
 |ICIJ Offshore Leaks (International Consortium Investigative Journalists) |https://offshoreleaks.icij.org/  |01/30/2021|leak||
 |International Aid Transparency Initiative |https://www.iatiregistry.org/publisher |01/30/2021|||
+|Interpol Notices | https://www.interpol.int/en/How-we-work/Notices/About-Notices | 01/30/2021 | law enforcement||
 |Investigative Reporters and Editors Resources|https://www.ire.org/resources/| 01/30/2021|||
+|International Trade Administration, Consolidated Screening List (US) |https://www.trade.gov/consolidated-screening-list | 01/30/2021| trade ||
 |OCCRP Research Desk (Organized Crime and Corruption Reporting Project) - OCCRP ID| https://id.occrp.org/databases/ |01/30/2021|corruption, crime||
 |OCCRP Aleph | https://aleph.occrp.org/ |01/30/2021 |corruption, crime||
 |Open-data Portals |https://opendatainception.io/| 01/30/2021|||
+|ProPublica Data Store, Criminal Justice Datasets |https://www.propublica.org/datastore/datasets/criminal-justice | 01/30/2021|justice, crime||
+|State of California Department of Justice, Databreach list |https://oag.ca.gov/privacy/databreach/list| 01/30/2021 | databreach||
 |Unesco Digital Library |https://unesdoc.unesco.org | 01/30/2021 |||
 |World Bank data catalog | https://datacatalog.worldbank.org/collections| 01/30/2021 |||
-|International Trade Administration, Consolidated Screening List (US) |https://www.trade.gov/consolidated-screening-list | 01/30/2021| trade ||
 
 
-## DATABREACH
-- https://oag.ca.gov/privacy/databreach/list (US)
 
-## CRIMINAL-JUSTICE
-- https://www.propublica.org/datastore/datasets/criminal-justice
-- https://vault.fbi.gov (US)
-- https://www.fbi.gov/wanted/cyber (US)
-- https://www.interpol.int/en/How-we-work/Notices/Red-Notices 
-
-## HUMAN trafficking
-
+unsorted
 - https://docs.google.com/spreadsheets/d/1a3yzhzzzJslzxtVGVZ7uNx7Q_GhpAVDIboQGDbwy0B4/edit#gid=1114015401 (GIJN Human Trafficking Database)
 - https://docs.google.com/spreadsheets/d/1SM8gsy8VYii9iyPHEehB2N7jnjUtmOjeyIgGAaZwu00/edit#gid=2129020903 (GIJN Human Trafficking, forced labor and slavery reports)
-
-
-## CORRUPTION
 - https://littlesis.org/ (who-knows-who)
-
-## INTELLIGENCE 
-
 - https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html (US)
-
-## LAW 
 - https://scholarship.law.upenn.edu/topdownloads.html (US)
 
 
