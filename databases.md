@@ -9,10 +9,7 @@ Note: So far most of the content is unsorted. Most additions of references are q
 
 |Name|link|label|
 |-|-|-|
-
-
 |GIJN METHODE : explore data, work with data (from GIJN Global Investigative Journalism Network Helpdesk)|https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism |journalism|
-
 |ICIJ Offshore Leaks (International Consortium Investigative Journalists)|https://offshoreleaks.icij.org/| leak|
 
 ### OCCRP Research Desk (Organized Crime and Corruption Reporting Project) - OCCRP ID
