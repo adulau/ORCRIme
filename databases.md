@@ -7,10 +7,10 @@ The important when searching for an information, is **where to find it**.
 
 I hope this short list helps to clarify what is the **purpose** of each **publisher** of information (website, entity, publisher...), and the **type** of dataset you can find.
 
-It's also important to keep in mind the **thematic** of the data,the **perspective** of analysis (financial, law, technical...) and to understand the **problematic** behind such data collection and agglomeration (what are people trying to solve or improve by putting data online?).
+It's also important to keep in mind the **thematic** of the data,the **perspective** of the analysis (financial, law, technical...) and to understand the **problematic** behind a data collection or agglomeration (for example what problem people are trying to solve and how these data can help?).
 
 
-**disclaimer**: So far most of the content is unsorted. Most additions of references are quick notes from study cases. Feel free to suggest any organisation that make sense to you and your team. 
+**disclaimer**: Most additions to the list are quick notes from study cases. Feel free to add any resources usefull to you and your team. 
 
 Each line tells if [MISP](https://github.com/MISP/MISP) has an import module related to it. If not, and you would like to see the integration, you can post an issue directly on the [MISP repository] (https://github.com/MISP/MISP/issues)
 
