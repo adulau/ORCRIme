@@ -16,7 +16,8 @@ Each line tells if [MISP](https://github.com/MISP/MISP) has an import module rel
  
 |Name|link|last-view|label|MISP module|
 |-|-|-|-|-|
-|European Data Portal, Justice, Legal System and Public safety datasets |https://www.europeandataportal.eu/data/datasets?locale=en&categories=JUST&minScoring=0&page=1&sort=relevance%2Bdesc |01/30/2021|||
+|European Data Portal, Justice, Legal System and Public safety datasets |https://www.europeandataportal.eu/data/datasets?locale=en&categories=JUST&minScoring=0&page=1&sort=relevance%2Bdesc |01/30/2021|justice, public safety||
+|Export.gov, export information by industry (US) |https://legacy.export.gov/industries | 01/30/2021|export||
 |GIJN METHODE : explore data, work with data (from GIJN Global Investigative Journalism Network Helpdesk)|https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism |01/30/2021|journalism||
 |ICIJ Offshore Leaks (International Consortium Investigative Journalists) |https://offshoreleaks.icij.org/  |01/30/2021|leak||
 |International Aid Transparency Initiative |https://www.iatiregistry.org/publisher |01/30/2021|||
@@ -26,13 +27,7 @@ Each line tells if [MISP](https://github.com/MISP/MISP) has an import module rel
 |Open-data Portals |https://opendatainception.io/| 01/30/2021|||
 |Unesco Digital Library |https://unesdoc.unesco.org | 01/30/2021 |||
 |World Bank data catalog | https://datacatalog.worldbank.org/collections| 01/30/2021 |||
-
-
-### Export.gov, export information by industry (US)
-- https://legacy.export.gov/industries
-
-### International Trade Administration, Consolidated Screening List (US)
-- https://www.trade.gov/consolidated-screening-list
+|International Trade Administration, Consolidated Screening List (US) |https://www.trade.gov/consolidated-screening-list | 01/30/2021| trade ||
 
 
 ## DATABREACH
