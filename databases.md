@@ -8,7 +8,10 @@ I hope this short list helps to clarify what is the **purpose** of each **publis
 
 Note: So far most of the content is unsorted. Most additions of references are quick notes from study cases. Feel free to suggest any organisation that make sense to you and your team. 
 Each line tells if [MISP](https://github.com/MISP/MISP) has an import module related to it. 
-![misp logo]()
+
+![misp logo](https://raw.githubusercontent.com/C00kie-/ORCRI/master/sources/image/misp-logo.png)
+
+## Database list (last update 01/30/2021)
  
 |Name|link|last-view|label|MISP module|
 |-|-|-|-|-|
