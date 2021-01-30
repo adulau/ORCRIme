@@ -18,20 +18,14 @@ Each line tells if [MISP](https://github.com/MISP/MISP) has an import module rel
 |-|-|-|-|-|
 |GIJN METHODE : explore data, work with data (from GIJN Global Investigative Journalism Network Helpdesk)|https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism |01/30/2021|journalism||
 |ICIJ Offshore Leaks (International Consortium Investigative Journalists) |https://offshoreleaks.icij.org/  |01/30/2021|leak||
-|OCCRP Research Desk (Organized Crime and Corruption Reporting Project) - OCCRP ID| https://id.occrp.org/databases/ |01/30/2012|||
+|International Aid Transparency Initiative |https://www.iatiregistry.org/publisher |01/30/2021|||
+|OCCRP Research Desk (Organized Crime and Corruption Reporting Project) - OCCRP ID| https://id.occrp.org/databases/ |01/30/2021|||
 |OCCRP Aleph | https://aleph.occrp.org/ |01/30/2021 |||
+|Open-data Portals |https://opendatainception.io/| 01/30/2021|||
+|Unesco Digital Library |https://unesdoc.unesco.org | 01/30/2021 |||
+|World Bank data catalog | https://datacatalog.worldbank.org/collections| 01/30/2021 |||
 
-### Open-data Portals
-- https://opendatainception.io/
 
-### International Aid Transparency Initiative (development and humanitarian activity) publishers list
-- https://www.iatiregistry.org/publisher
-
-### World Bank data catalog
-- https://datacatalog.worldbank.org/collections
-
-### Unesco Digital Library
-- https://unesdoc.unesco.org
 
 ### Investigative Reporters and Editors Resources
 - https://www.ire.org/resources/
