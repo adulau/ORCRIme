@@ -2,8 +2,12 @@
 # Databases
 
 **Quick word about searching for *data*:**
+
 The important when searching for an information, is **where to find it**. 
-I hope this short list helps to clarify what is the **purpose** of each **publisher** of information (website, entity, publisher...), and the **type** of dataset you can find. It's also important to keep in mind the **thematic** of the data,the **perspective** of analysis (financial, law, technical...) as understand **problematics** behind such data collection and agglomeration (what are people trying to solve or improve by putting data online?).
+
+I hope this short list helps to clarify what is the **purpose** of each **publisher** of information (website, entity, publisher...), and the **type** of dataset you can find.
+
+It's also important to keep in mind the **thematic** of the data,the **perspective** of analysis (financial, law, technical...) as understand **problematics** behind such data collection and agglomeration (what are people trying to solve or improve by putting data online?).
 
 
 **disclaimer**: So far most of the content is unsorted. Most additions of references are quick notes from study cases. Feel free to suggest any organisation that make sense to you and your team. 
